@@ -21,7 +21,7 @@
 </p>
 
 <h1 align="center">
-  Curso de formação em Front-End.
+  Curso de formação em tecnologia.
 <h1 align="center">
 <br>
       
@@ -32,7 +32,7 @@
 
 ## :dart: Proposta
 
-* Desenvolvimento e capacitação de alunos novos a pessoas em transição de carreira, com matérias e aprendizados balizados nas necessidades do mercado, e com foco prático para que as pessoas possam executar em qualquer entrevista o que foi apreendido durante o curso, para isso o curso conta com materiais de leitura e desenvolvimento prático de projetos.
+* Desenvolvimento e capacitação de pessoas com renda em hard skills como o  desenvolvimento web (com CS e JavaScript) e de FrontEnd (com design thinking, UX, CSS, HTML, entre outros), complementado também pela fomração em soft skills, gestão de projetos e diversidade.  
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
