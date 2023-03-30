@@ -54,6 +54,11 @@
 |Diversidade|12|3|17/04/2023|19/05/2023|
 |HTML, CSS e Bootstrap|8|2|24/04/2023|12/05/2023|
 |JavaScript|16|4|15/05/2023|26/05/2023|
+|Técnicas e ferramentas para gestão de projetos e produtos|16|4|22/05/2023|23/06/2023| 
+|React|16|4|05/06/2023|30/06/2023| 
+|Inteligência emocional|-|8|-|-|
+      
+      
 
 
 
