@@ -67,7 +67,7 @@
 
 ## :calendar: Os Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamento-da-tecnolgia-da-informacao-e-comunicao)): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/institutoNuDescomplica/Projeto-de-vida)): Concluído :heavy_check_mark:
 
 ☑️ SPRINT 2 ([Link da Pasta](https://github.com/senaiFrontEnd/metodologias-ageis)): A fazer 
 
@@ -84,10 +84,6 @@
 ☑️ SPRINT 8 ([Link da Pasta](https://github.com/senaiFrontEnd/Sustentabilidade-nos-processos-industriais)): A fazer 
 
 ☑️ SPRINT 9 ([Link da Pasta](https://github.com/senaiFrontEnd/Codificacao-para-Front-End)): A fazer 
-
-☑️ SPRINT 10 ([Link da Pasta](https://github.com/senaiFrontEnd/Interacao-com-API-s)): A fazer 
-
-☑️ SPRINT 11 ([Link da Pasta](https://github.com/senaiFrontEnd/Testes-de-Front-End)): A fazer 
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
