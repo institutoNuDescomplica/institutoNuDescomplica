@@ -45,7 +45,8 @@
 <br> 
       
 ## :hourglass_flowing_sand: Planejamento de Aulas
-      
+
+<p align="center">      
 |Unidades Curriculares |Quantidade de aulas|Início| Término|
 |-------- |-------- |-------- |-------- | 
 |Projeto de vida|11|20/03/2023|14/04/2023|
@@ -57,11 +58,8 @@
 |Técnicas e ferramentas para gestão de projetos e produtos|5|22/05/2023|23/06/2023| 
 |React|16|05/06/2023|30/06/2023| 
 |Inteligência emocional|-|8|-|-|
+<p align="center">      
       
-      
-
-
-
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
