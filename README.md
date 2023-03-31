@@ -126,5 +126,5 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-<h1 align="center"> <img src = "Imagens_Geral/senai-logo-2.png" height="90" /></h1>    
- 
+<h1 align="center"> <img src = "Imagens_Geral/descomplica.png" height="90" /></h1>  
+<h1 align="center"> <img src = "Imagens_Geral/nubank.png" height="90" /></h1> 
