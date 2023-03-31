@@ -69,21 +69,21 @@
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/institutoNuDescomplica/Projeto-de-vida)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/senaiFrontEnd/metodologias-ageis)): A fazer 
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/institutoNuDescomplica/Introducao-ao-desenvolvimento-Web)): A fazer 
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-qualidade-e-produtividade)): A fazer 
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/institutoNuDescomplica/Design-thinking-ux-e-metodologias-ageis)): A fazer 
 
-☑️ SPRINT 4 ([Link da Pasta](https://github.com/senaiFrontEnd/Versionamento)): A fazer 
+☑️ SPRINT 4 ([Link da Pasta](https://github.com/institutoNuDescomplica/Diversidade)): A fazer 
 
-☑️ SPRINT 5 ([Link da Pasta](https://github.com/senaiFrontEnd/Saude-e-seguranca-no-trabalho)): A fazer 
+☑️ SPRINT 5 ([Link da Pasta](https://github.com/institutoNuDescomplica/HTML-CSS-e-Bootstrap)): A fazer 
 
-☑️ SPRINT 6 ([Link da Pasta](https://github.com/senaiFrontEnd/Logica-de-programacao)): A fazer 
+☑️ SPRINT 6 ([Link da Pasta](https://github.com/institutoNuDescomplica/JavaScript)): A fazer 
 
-☑️ SPRINT 7 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-industria-4.0)): A fazer 
+☑️ SPRINT 7 ([Link da Pasta](https://github.com/institutoNuDescomplica/Tecnicas-e-ferramentas-para-gestao-de-projetos-e-produtos)): A fazer 
 
-☑️ SPRINT 8 ([Link da Pasta](https://github.com/senaiFrontEnd/Sustentabilidade-nos-processos-industriais)): A fazer 
+☑️ SPRINT 8 ([Link da Pasta](https://github.com/institutoNuDescomplica/React)): A fazer 
 
-☑️ SPRINT 9 ([Link da Pasta](https://github.com/senaiFrontEnd/Codificacao-para-Front-End)): A fazer 
+☑️ SPRINT 9 ([Link da Pasta](https://github.com/institutoNuDescomplica/Inteligencia-emocional)): A fazer 
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
