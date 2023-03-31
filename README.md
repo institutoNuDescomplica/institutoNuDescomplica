@@ -46,16 +46,16 @@
       
 ## :hourglass_flowing_sand: Planejamento de Aulas
       
-|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
-|-------- |-------- |-------- |-------- | -------- |
-|Projeto de vida| 20|4|20/03/2023|14/04/2023|
-|Introdução ao desenvolvimento web|3|1|20/03/202|31/03/202|
-|Design thinking, ux e metodologias ágeis.|20|5|10/04/2023|28/04/2023|
-|Diversidade|12|3|17/04/2023|19/05/2023|
-|HTML, CSS e Bootstrap|8|2|24/04/2023|12/05/2023|
-|JavaScript|16|4|15/05/2023|26/05/2023|
-|Técnicas e ferramentas para gestão de projetos e produtos|16|4|22/05/2023|23/06/2023| 
-|React|16|4|05/06/2023|30/06/2023| 
+|Unidades Curriculares |Quantidade de aulas|Início| Término|
+|-------- |-------- |-------- |-------- | 
+|Projeto de vida|11|20/03/2023|14/04/2023|
+|Introdução ao desenvolvimento web|7|20/03/202|31/03/202|
+|Design thinking, ux e metodologias ágeis.|10|10/04/2023|28/04/2023|
+|Diversidade|8|17/04/2023|19/05/2023|
+|HTML, CSS e Bootstrap|10|24/04/2023|12/05/2023|
+|JavaScript|12|15/05/2023|26/05/2023|
+|Técnicas e ferramentas para gestão de projetos e produtos|5|22/05/2023|23/06/2023| 
+|React|16|05/06/2023|30/06/2023| 
 |Inteligência emocional|-|8|-|-|
       
       
