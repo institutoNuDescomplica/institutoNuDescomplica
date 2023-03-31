@@ -69,7 +69,7 @@
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/institutoNuDescomplica/Projeto-de-vida)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/institutoNuDescomplica/Introducao-ao-desenvolvimento-Web)): A fazer 
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/institutoNuDescomplica/Introducao-ao-desenvolvimento-Web)): Concluído :heavy_check_mark: 
 
 ☑️ SPRINT 3 ([Link da Pasta](https://github.com/institutoNuDescomplica/Design-thinking-ux-e-metodologias-ageis)): A fazer 
 
